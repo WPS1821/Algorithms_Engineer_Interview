@@ -59,6 +59,18 @@
 
 [剑指offer 15](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
+6.手写NMS代码
+[NMS代码解读](https://blog.csdn.net/jason__sz/article/details/79179107)
+
+7.求链表倒数第k个结点
+[剑指offer 14](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-rankin
+
+### 京东
+1.无序数组找第k小的数
+[topK问题](https://www.cnblogs.com/gczr/p/7007592.html)
+
+2.给一个等几率生成0和1的函数，设计函数能1/3的概率生成0，2/3的概率生成1。
+多次调用该函数，对结果做3等分即可
 
 ### 阿里巴巴
 
